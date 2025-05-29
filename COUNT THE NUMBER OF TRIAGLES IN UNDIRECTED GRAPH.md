@@ -29,7 +29,7 @@ To write a Python program to count the number of triangles present in an undirec
 ---
 
 ## Program
-```
+```python
 # A Python3 program for finding number of
 # triangles in an Undirected Graph. The
 # program is for adjacency matrix
